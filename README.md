@@ -7,7 +7,7 @@ state, account_length, area_code, phone_number, intl_plan, voice_mail_plan, numb
 
 ### OBJECTIVE:
 
-The objective of this project is to identify customers who are likely to stop using service in the future and analyze top factors that influce user retention. This is the binary classification regression problem. The target of the dataset is to predict whether the new customer is going to "churn" or "not churn"
+The objective of this project is to identify customers who are likely to stop using service in the future and analyze top factors that influce user retention. This is the binary classification  problem. The target of the dataset is to predict whether the new customer is going to "churn" or "not churn"
 
 ### PREPROCESSING:
 
